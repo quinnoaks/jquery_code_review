@@ -1,3 +1,7 @@
 #favlist {
   display: none;
 }
+
+.bold {
+  font-weight: bold;
+}
