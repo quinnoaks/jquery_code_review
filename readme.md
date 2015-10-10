@@ -1,22 +1,19 @@
-# JQuery Code Review
+# JQuery Code Review - Intro to Programming
 
-##### JQuery Code Review - Intro to Programming, 10/8/2015
+##### Five Favorite Things, 10/8/2015
 
 #### By Quinn Oaks
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}_
+This website helps you never forget your five favorite things.  You enter your name, your favorite things, and hit submit. Your personal list is produced for you to keep in one place.
 
 ## Setup
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
+* Open with Chrome.
+* Enter name and favorite things.
+* Hit "Submit" button.
+* Enjoy your personal list!
 
 ## Technologies Used
 
