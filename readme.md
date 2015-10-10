@@ -10,7 +10,7 @@ This website helps you never forget your five favorite things.  You enter your n
 
 ## Setup
 
-* Open with Chrome.
+* Open quinnoaks.github.io/jquery_code_review with Chrome.
 * Enter name and favorite things.
 * Hit "Submit" button.
 * Enjoy your personal list!
